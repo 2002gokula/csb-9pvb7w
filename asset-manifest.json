@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "https://2002gokula.github.io/csb-9pvb7w/static/css/main.a5e1b0c7.chunk.css",
+    "main.js": "https://2002gokula.github.io/csb-9pvb7w/static/js/main.ff7dfb6a.chunk.js",
+    "main.js.map": "https://2002gokula.github.io/csb-9pvb7w/static/js/main.ff7dfb6a.chunk.js.map",
+    "runtime-main.js": "https://2002gokula.github.io/csb-9pvb7w/static/js/runtime-main.ce8211a8.js",
+    "runtime-main.js.map": "https://2002gokula.github.io/csb-9pvb7w/static/js/runtime-main.ce8211a8.js.map",
+    "static/js/2.79dfc18e.chunk.js": "https://2002gokula.github.io/csb-9pvb7w/static/js/2.79dfc18e.chunk.js",
+    "static/js/2.79dfc18e.chunk.js.map": "https://2002gokula.github.io/csb-9pvb7w/static/js/2.79dfc18e.chunk.js.map",
+    "static/js/3.e656c622.chunk.js": "https://2002gokula.github.io/csb-9pvb7w/static/js/3.e656c622.chunk.js",
+    "static/js/3.e656c622.chunk.js.map": "https://2002gokula.github.io/csb-9pvb7w/static/js/3.e656c622.chunk.js.map",
+    "static/js/4.cd8c257f.chunk.js": "https://2002gokula.github.io/csb-9pvb7w/static/js/4.cd8c257f.chunk.js",
+    "static/js/4.cd8c257f.chunk.js.map": "https://2002gokula.github.io/csb-9pvb7w/static/js/4.cd8c257f.chunk.js.map",
+    "static/js/5.490bb600.chunk.js": "https://2002gokula.github.io/csb-9pvb7w/static/js/5.490bb600.chunk.js",
+    "static/js/5.490bb600.chunk.js.map": "https://2002gokula.github.io/csb-9pvb7w/static/js/5.490bb600.chunk.js.map",
+    "static/js/6.d56d0049.chunk.js": "https://2002gokula.github.io/csb-9pvb7w/static/js/6.d56d0049.chunk.js",
+    "static/js/6.d56d0049.chunk.js.map": "https://2002gokula.github.io/csb-9pvb7w/static/js/6.d56d0049.chunk.js.map",
+    "index.html": "https://2002gokula.github.io/csb-9pvb7w/index.html",
+    "static/css/main.a5e1b0c7.chunk.css.map": "https://2002gokula.github.io/csb-9pvb7w/static/css/main.a5e1b0c7.chunk.css.map",
+    "static/js/2.79dfc18e.chunk.js.LICENSE.txt": "https://2002gokula.github.io/csb-9pvb7w/static/js/2.79dfc18e.chunk.js.LICENSE.txt",
+    "static/js/5.490bb600.chunk.js.LICENSE.txt": "https://2002gokula.github.io/csb-9pvb7w/static/js/5.490bb600.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce8211a8.js",
+    "static/js/2.79dfc18e.chunk.js",
+    "static/css/main.a5e1b0c7.chunk.css",
+    "static/js/main.ff7dfb6a.chunk.js"
+  ]
+}
